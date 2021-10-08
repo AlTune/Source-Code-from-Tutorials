@@ -1,9 +1,4 @@
-Metasploit Framework - program with a bunch of built in tools you use (comes with Kali)
-- gather information about target
-- scan for vulnerabilities
-- perform exploits / write your own too
-- This is a command line tool
-
+documentation/modules/auxiliary/scanner/http/azure_ad_login.md
 Metasploit.com
 http://www.rapid7.com/products/metasploit/
 http://www.rapid7.com/products/metasploit/editions.jsp
@@ -172,7 +167,7 @@ whoami
 
 --------------------
 
-
+modules/auxiliary/scanner/http/azure_ad_login.py
 
 
 
