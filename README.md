@@ -1,12 +1,16 @@
-####Source Code from thenewboston Tutorials
+#### Source Code from thenewboston Tutorials
 
 We are in the process of adding the source code from all of the tutorials to a public GitHub repository. If anyone would like to contribute, please feel free!
 
 [thenewboston Videos and Tutorials](https://www.thenewboston.com/videos.php)
 
+Linux: https://docs.google.com/document/d/1FgMqlHYDva5--sJuR1fc-wbidpvHMFKEvK4RHqD4px0/edit?usp=sharing
+
+DigitalOcean: https://docs.google.com/document/d/1xOllgXRN10fWz1TsURh0OYI60TAVz0snD8HOzga5CCA/edit?usp=sharing
+
 ***
 
-#####How to Submit Source Code
+##### How to Submit Source Code
 
 1 - Download [GitHub for Windows](https://windows.github.com/) or [GitHub for Mac](https://mac.github.com/)
 
